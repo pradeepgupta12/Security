@@ -1,11 +1,11 @@
 import "./globals.css";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
-import WhatsAppBtn from "@/components/WhatsAppBtn";
-import CustomCursor from "@/components/CustomCursor";
-import FlowerRain from "@/components/FlowerRain";
-import PageLoader from "@/components/PageLoader";
-import ScrollAnimations from "@/components/ScrollAnimations";
+import Navbar from "@/components/layout/Navbar";
+import Footer from "@/components/layout/Footer";
+import WhatsAppBtn from "@/components/ui/WhatsAppBtn";
+import CustomCursor from "@/components/common/CustomCursor";
+import FlowerRain from "@/components/common/FlowerRain";
+import PageLoader from "@/components/common/PageLoader";
+import ScrollAnimations from "@/components/common/ScrollAnimations";
 
 export const metadata = {
   title: { default: "JSS Group Security & Facility Management Pvt. Ltd. | India's Leading Security Agency", template: "%s | JSS Security" },

@@ -22,11 +22,11 @@ export default function Home() {
       <HeroSection />
       <WhatsAppBanner />
       <ProfileNumbers />
-      <SS4GroupSection />
-      <SecurityGuardsSection />
+      {/* <SS4GroupSection /> */}
+      {/* <SecurityGuardsSection /> */}
       <AssociationsSection />
       <ServicesSection />
-      <MediaGallerySection />
+      {/* <MediaGallerySection /> */}
       <GallerySection />
       <WhyChooseUsSection />
       <TestimonialSection />

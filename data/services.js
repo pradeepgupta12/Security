@@ -1,0 +1,70 @@
+// Service catalogue. Each entry drives the /services/[slug] dynamic route,
+// the services sidebar and the home-page services section.
+export const services = [
+  {
+    slug: "industrial-security",
+    title: "Industrial Security",
+    shortDesc: "Well-trained freshers and experienced personnel with Industrial Security.",
+    description: "We provide both well trained freshers and experienced personnel who are best suited as per the requirements of customers. We Consider the risk profile of the customer, select our own strategic and selective deployment of personnel which can work as an effective shield against the company's risk exposure.",
+    imageUrl: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=900&q=80",
+    icon: "🏭",
+  },
+  {
+    slug: "executive-protection",
+    title: "Executive Protection / Body Guard",
+    shortDesc: "Selected personnel specialized in bodyguard services.",
+    description: "Our executive protection services are tailored to meet the specific needs of high-profile individuals, corporate executives, and VIPs. Our trained bodyguards provide discreet yet effective protection ensuring your safety at all times.",
+    imageUrl: "https://images.unsplash.com/photo-1617575521317-d2974f3b56d2?w=900&q=80",
+    icon: "🛡️",
+  },
+  {
+    slug: "female-security-team",
+    title: "Female Security Team",
+    shortDesc: "Trained and experienced female security personnel.",
+    description: "Our female security team is specially trained to handle security requirements in sensitive environments such as hospitals, malls, educational institutions, and events where female presence is required for thorough security checks.",
+    imageUrl: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=900&q=80",
+    icon: "👮‍♀️",
+  },
+  {
+    slug: "security-survey-audit",
+    title: "Security Survey / Audit",
+    shortDesc: "Comprehensive security assessments to identify vulnerabilities.",
+    description: "Our expert security consultants conduct thorough surveys and audits of your premises to identify potential security risks and vulnerabilities. We provide detailed reports with actionable recommendations to enhance your security measures.",
+    imageUrl: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=900&q=80",
+    icon: "🔍",
+  },
+  {
+    slug: "safety-fire-fighting",
+    title: "Safety and Fire Fighting",
+    shortDesc: "Professional fire safety management and trained fire fighting personnel.",
+    description: "We provide professionally trained fire safety officers and fire fighting teams equipped with the latest equipment. Our personnel are trained to handle fire emergencies efficiently and ensure the safety of your premises and personnel.",
+    imageUrl: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=900&q=80",
+    icon: "🔥",
+  },
+  {
+    slug: "escorting-cash",
+    title: "Escorting Cash, Valuables & Documents",
+    shortDesc: "Secure transportation and escort services for valuables.",
+    description: "Our cash-in-transit services provide secure escort for cash, valuables, and important documents. Our trained armed guards ensure safe transportation from one location to another with complete accountability and minimal risk.",
+    imageUrl: "https://images.unsplash.com/photo-1579621970795-87facc2f976d?w=900&q=80",
+    icon: "💰",
+  },
+  {
+    slug: "dog-squad-services",
+    title: "Dog Squad Services",
+    shortDesc: "Trained detection dogs for security patrol and threat detection.",
+    description: "Our professionally trained dog squads provide an additional layer of security. These trained dogs are excellent for perimeter patrol, crowd control, explosive detection, and narcotics detection.",
+    imageUrl: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80",
+    icon: "🐕",
+  },
+  {
+    slug: "human-resources",
+    title: "Human Resources",
+    shortDesc: "Complete HR solutions for security workforce management.",
+    description: "We provide comprehensive human resource management services for security organizations. From recruitment and training to payroll management and compliance, our HR solutions ensure you have the right people in the right roles.",
+    imageUrl: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=900&q=80",
+    icon: "👥",
+  },
+];
+
+export default services;
