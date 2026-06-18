@@ -5,7 +5,7 @@ import VisionAbout from "@/components/about/VisionAbout";
 import MissionAbout from "@/components/about/MissionAbout";
 import CertificationAbout from "@/components/about/CertificationAbout";
 import TestimonialsAbout from "@/components/about/TestimonialsAbout";
-import TeamAbout from "@/components/about/TeamAbout";
+
 
 // Data-driven About section. Each slug maps to its own layout component and
 // metadata, so every page renders exactly as it did when it lived in its own
@@ -53,13 +53,7 @@ const aboutPages = {
       description: "Client testimonials and feedback for JSS Group Security & Facility Management Pvt. Ltd.",
     },
   },
-  "our-team": {
-    Component: TeamAbout,
-    metadata: {
-      title: "Our Team | JSS Group Security & Facility Management",
-      description: "Meet the team members of JSS Group Security & Facility Management Pvt. Ltd.",
-    },
-  },
+  
 };
 
 export const dynamicParams = false;
