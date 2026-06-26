@@ -12,17 +12,17 @@ export const about = {
       name: "MRS. SONAM SINGH",
       role: "Co-Founder & Director",
       imageUrl: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=700&q=80",
-      description: "Mrs. Sonam Singh is the Co-Founder and Director of SS4 Security Management Pvt. Ltd. She plays a pivotal role in managing organizational affairs and HR functions. Her leadership and administrative capabilities have been instrumental in the company's growth and success.",
+      description: "Mrs. Sonam Singh is the Co-Founder and Director of LFM Security Management Pvt. Ltd. She plays a pivotal role in managing organizational affairs and HR functions. Her leadership and administrative capabilities have been instrumental in the company's growth and success.",
     },
   ],
   vision: {
     imageUrl: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=900&q=80",
-    description: "Pan India Presence Ability to serve establishments across the countrywell connected network across all Major MetrosJSSAssurance• 100% compliance as per statutory requirements• Audited Systems and high quality delivery processes• Verification/records of all the staff deployed in your organization• Wages to all staff are paid on time.• ISO 9001:2015 & ISO 45001:2018 Certified CompanyTraining•All our employees are given Entry level training for staff as well as On the Job skill enhancement.Customer FocusedWe ensure all our Clients are provided with excellent Service Levels witch matches their Expectations.",
+    description: "Pan India Presence Ability to serve establishments across the countrywell connected network across all Major MetrosLFMAssurance• 100% compliance as per statutory requirements• Audited Systems and high quality delivery processes• Verification/records of all the staff deployed in your organization• Wages to all staff are paid on time.• ISO 9001:2015 & ISO 45001:2018 Certified CompanyTraining•All our employees are given Entry level training for staff as well as On the Job skill enhancement.Customer FocusedWe ensure all our Clients are provided with excellent Service Levels witch matches their Expectations.",
     quote: "TO EMERGE AS THE MOST PREFERRED AND TRUSTWORTHY SERVICE PROVIDER EARNING CUSTOMER FOR LIFE WITH AN AIM TO CREATE FOR THEM A TROUBLE-FREE ENVIRONMENT WHICH ADDS VALUE TO THE CORE FUNCTION OF THE CLIENT.",
   },
   mission: {
     imageUrl: "https://ldsguarding.in/blog/blog-cms/gall/1718342813.jpg",
-    description: "At JSS Group, our mission is to provide reliable, effective, and innovative security solutions tailored to meet the unique needs of each client. We are committed to maintaining the highest standards of professionalism, integrity, and customer satisfaction, ensuring that our clients can focus on their core business with peace of mind.",
+    description: "At LFM Group, our mission is to provide reliable, effective, and innovative security solutions tailored to meet the unique needs of each client. We are committed to maintaining the highest standards of professionalism, integrity, and customer satisfaction, ensuring that our clients can focus on their core business with peace of mind.",
     points: [
       "Deliver superior security solutions tailored to client needs",
       "Maintain the highest standards of training and professionalism",
@@ -33,7 +33,7 @@ export const about = {
   },
   profile: {
     videoId: "dQw4w9WgXcQ",
-    description: "JSS Group is a reputable and professional security solutions provider, dedicated to safeguarding our clients' assets, properties, and personnel. With a team of highly trained and skilled security personnel, advanced technology, and a customer-centric approach, we have earned a strong reputation for excellence in the security industry.",
+    description: "LFM Group is a reputable and professional security solutions provider, dedicated to safeguarding our clients' assets, properties, and personnel. With a team of highly trained and skilled security personnel, advanced technology, and a customer-centric approach, we have earned a strong reputation for excellence in the security industry.",
     trainingImageUrl: "https://images.unsplash.com/photo-1541844053589-346841d0b34c?w=900&q=80",
     trainingDesc: "We provide special training to our guards to manage large, high-risk events such as Football matches and other sports events, concerts, award ceremonies etc. with the capability to identify suspicious activities and read body language to predict threats.",
   },

@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Privacy Policy | SS4 Security Management",
-  description: "Privacy policy of SS4 Security Management Pvt. Ltd.",
+  title: "Privacy Policy | LFM Security Management",
+  description: "Privacy policy of LFM Security Management Pvt. Ltd.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -8,7 +8,7 @@ export default function PrivacyPolicyPage() {
     <div className="max-w-4xl mx-auto px-4 py-10">
       <h1 className="text-2xl font-black uppercase red-line mb-8 anim">Privacy Policy</h1>
       <div className="prose prose-sm max-w-none space-y-6 text-gray-600 text-sm leading-relaxed anim">
-        <p>This Privacy Policy describes how JSS Group Security & Facility Management Pvt. Ltd. (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) collects, uses, and shares information about you when you use our website and services.</p>
+        <p>This Privacy Policy describes how LFM Group Security & Facility Management Pvt. Ltd. (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) collects, uses, and shares information about you when you use our website and services.</p>
 
         <h2 className="text-base font-black uppercase text-gray-900">Information We Collect</h2>
         <p>We collect information you provide directly to us, such as when you fill out a contact form, request a quote, or apply for a job. This may include your name, email address, phone number, and other contact information.</p>
@@ -35,7 +35,7 @@ export default function PrivacyPolicyPage() {
         <p>We implement appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing, accidental loss, destruction, or damage.</p>
 
         <h2 className="text-base font-black uppercase text-gray-900">Contact Us</h2>
-        <p>If you have any questions about this Privacy Policy, please contact us at info@ss4security.com or call us at 9800-891-3700.</p>
+        <p>If you have any questions about this Privacy Policy, please contact us at info@LFMsecurity.com or call us at 9800-891-3700.</p>
 
         <p className="text-gray-400 text-xs">Last updated: January 2024</p>
       </div>

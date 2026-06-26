@@ -14,43 +14,43 @@ const aboutPages = {
   "our-founder": {
     Component: FounderAbout,
     metadata: {
-      title: "Our Founder | JSS Group Security & Facility Management",
-      description: "Meet the founders of JSS Group Security & Facility Management Pvt. Ltd.",
+      title: "Our Founder | LFM Group Security & Facility Management",
+      description: "Meet the founders of LFM Group Security & Facility Management Pvt. Ltd.",
     },
   },
   "our-profile": {
     Component: ProfileAbout,
     metadata: {
-      title: "Our Profile | JSS Group Security & Facility Management",
-      description: "Learn about JSS Group Security & Facility Management profile and company background.",
+      title: "Our Profile | LFM Group Security & Facility Management",
+      description: "Learn about LFM Group Security & Facility Management profile and company background.",
     },
   },
   "our-vision": {
     Component: VisionAbout,
     metadata: {
-      title: "Our Vision | JSS Group Security & Facility Management",
-      description: "JSS Group Security & Facility Management vision for a secure and productive environment.",
+      title: "Our Vision | LFM Group Security & Facility Management",
+      description: "LFM Group Security & Facility Management vision for a secure and productive environment.",
     },
   },
   "our-mission": {
     Component: MissionAbout,
     metadata: {
-      title: "Our Mission | SS4 Security Management",
-      description: "SS4 Security Management mission to provide highest quality security services.",
+      title: "Our Mission | LFM Security Management",
+      description: "LFM Security Management mission to provide highest quality security services.",
     },
   },
   "our-certification": {
     Component: CertificationAbout,
     metadata: {
-      title: "Our Certification | JSS Group Security & Facility Management",
-      description: "JSS Group Security & Facility Management ISO certifications, PASARA licenses and company documents.",
+      title: "Our Certification | LFM Group Security & Facility Management",
+      description: "LFM Group Security & Facility Management ISO certifications, PASARA licenses and company documents.",
     },
   },
   "testimonials": {
     Component: TestimonialsAbout,
     metadata: {
-      title: "Testimonials | JSS Group Security & Facility Management",
-      description: "Client testimonials and feedback for JSS Group Security & Facility Management Pvt. Ltd.",
+      title: "Testimonials | LFM Group Security & Facility Management",
+      description: "Client testimonials and feedback for LFM Group Security & Facility Management Pvt. Ltd.",
     },
   },
   

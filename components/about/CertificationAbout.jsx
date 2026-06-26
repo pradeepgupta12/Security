@@ -25,7 +25,7 @@ function CertGrid({ title, accent, items }) {
           </div>
         ))}
       </div>
-      <p className="mt-3 text-xs text-gray-400 italic">Documents belong to SS4 Security only</p>
+      <p className="mt-3 text-xs text-gray-400 italic">Documents belong to LFM Security only</p>
     </div>
   );
 }

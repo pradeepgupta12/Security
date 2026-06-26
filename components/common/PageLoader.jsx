@@ -12,7 +12,7 @@ export default function PageLoader() {
   return (
     <div className={`page-loader ${done ? "done" : ""}`}>
       <div className="loader-ring mb-5" />
-      <div className="text-white font-black text-sm tracking-[0.3em]">JSS GROUP</div>
+      <div className="text-white font-black text-sm tracking-[0.3em]">LFM Group</div>
       <div className="text-red-500 text-xs tracking-widest mt-1">SECURITY & FACILITY MANAGEMENT </div>
     </div>
   );

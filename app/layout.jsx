@@ -8,10 +8,10 @@ import PageLoader from "@/components/common/PageLoader";
 import ScrollAnimations from "@/components/common/ScrollAnimations";
 
 export const metadata = {
-  title: { default: "JSS Group Security & Facility Management Pvt. Ltd. | India's Leading Security Agency", template: "%s | JSS Security" },
-  description: "JSS Group Security & Facility Management Pvt. Ltd. — India's fastest growing security agency. Industrial security, executive protection, female security, PSARA licensed. Pan India since 2017.",
-  keywords: ["security agency india", "jss security", "industrial security", "bodyguard services", "kanpur security", "pan india security", "psara licensed"],
-  openGraph: { type: "website", locale: "en_IN", siteName: "JSS Group Security & Facility Management Pvt. Ltd." },
+  title: { default: "LFM Group Security & Facility Management Pvt. Ltd. | India's Leading Security Agency", template: "%s | LFM Security" },
+  description: "LFM Group Security & Facility Management Pvt. Ltd. — India's fastest growing security agency. Industrial security, executive protection, female security, PSARA licensed. Pan India since 2017.",
+  keywords: ["security agency india", "LFM security", "industrial security", "bodyguard services", "kanpur security", "pan india security", "psara licensed"],
+  openGraph: { type: "website", locale: "en_IN", siteName: "LFM Group Security & Facility Management Pvt. Ltd." },
   robots: { index: true, follow: true },
 };
 

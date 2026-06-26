@@ -63,7 +63,7 @@ export default function CareerForm() {
       <div className="mb-10">
         <h1 className="text-2xl font-black uppercase red-line mb-3">Career</h1>
         <p className="text-gray-600 text-sm max-w-2xl leading-relaxed">
-          Join JSS Group Security & Facility Management Pvt. Ltd. and be part of India&apos;s fastest growing security company. 
+          Join LFM Group Security & Facility Management Pvt. Ltd. and be part of India&apos;s fastest growing security company. 
           We offer exciting career opportunities across India with competitive salary and growth prospects.
         </p>
       </div>

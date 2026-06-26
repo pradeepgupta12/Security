@@ -3,8 +3,8 @@
 // blurbs here — they are consumed across the whole site via lib/data.js.
 
 export const company = {
-  name: "JSS Group Security Management Pvt. Ltd.",
-  shortName: "JSS Group Security",
+  name: "LFM Group Security Management Pvt. Ltd.",
+  shortName: "LFM Group Security",
   tagline: "Aapki Suraksha Mein Sadaa",
   phone: ["+022-62320001/02", "+040-23114922/23116922", "+0522-4337001/02"],
   mobileSales: [
@@ -12,11 +12,11 @@ export const company = {
     "+918886662321, 9820009277",
     "+916390006001, 9966062100"
   ],
-  email: "service@jssgroupindia.com",
+  email: "service@LFMgroupindia.com",
   emailsRegional: {
-    mumbai: "service@jssgroupindia.com",
-    hyderabad: "service.hyd@jssgroupindia.com",
-    lucknow: "lucknow@jssgroupindia.com"
+    mumbai: "service@LFMgroupindia.com",
+    hyderabad: "service.hyd@LFMgroupindia.com",
+    lucknow: "lucknow@LFMgroupindia.com"
   },
   hours: "Mon – Sat: 9AM – 7PM",
   registeredAddress: "121/620/RD, W BLOCK, TULSI VIHAR COLONY, KESHAV NAGAR, KANPUR (U.P.) 208024",
@@ -27,7 +27,7 @@ export const company = {
       address: "1005, Corporate Annexe, Near Udyog Bhawan, Sonawala Road, Goregaon (East), Mumbai - 400 063",
       phone: "+022-62320001/02",
       sales: "+918877119973, 8877119974",
-      email: "service@jssgroupindia.com",
+      email: "service@LFMgroupindia.com",
       branches: "Maharashtra, Goa, Gujarat, M.P"
     },
     hyderabad: {
@@ -35,7 +35,7 @@ export const company = {
       address: "Plot #101, R.K Plaza, Vithalrao Nagar, Madhapur, Hyderabad - 500 081",
       phone: "+040-23114922/23116922",
       sales: "+918886662321, 9820009277",
-      email: "service.hyd@jssgroupindia.com",
+      email: "service.hyd@LFMgroupindia.com",
       branches: "Telangana, A.P, Tamilnadu, Karnataka, Orissa, Puduchery"
     },
     lucknow: {
@@ -43,16 +43,16 @@ export const company = {
       address: "10/119 Indira Nagar, Lucknow - 226016",
       phone: "+0522-4337001/02",
       sales: "+916390006001, 9966062100",
-      email: "lucknow@jssgroupindia.com",
+      email: "lucknow@LFMgroupindia.com",
       branches: "U.P, Uttrakhand, Delhi, Bihar, Jharkhand, WB"
     }
   },
   social: {
-    facebook: "https://facebook.com/jssgroupsecurity",
-    twitter: "https://twitter.com/jssgroupsecurity",
-    instagram: "https://instagram.com/jssgroupsecurity",
-    youtube: "https://youtube.com/@jssgroupsecurity",
-    linkedin: "https://linkedin.com/company/jssgroupsecurity",
+    facebook: "https://facebook.com/LFMgroupsecurity",
+    twitter: "https://twitter.com/LFMgroupsecurity",
+    instagram: "https://instagram.com/LFMgroupsecurity",
+    youtube: "https://youtube.com/@LFMgroupsecurity",
+    linkedin: "https://linkedin.com/company/LFMgroupsecurity",
   },
 };
 
@@ -72,16 +72,16 @@ export const hero = {
 
 export const whatsapp = {
   number: "+919800891700",
-  message: "Hello, I want to enquire about SS4 security services.",
+  message: "Hello, I want to enquire about LFM security services.",
 };
 
 export const ourProfile = {
-  description: "JSS Group is a reputable and professional security solutions provider, dedicated to safeguarding our clients' assets, properties, and personnel. With a team of highly trained and skilled security personnel, advanced technology, and a customer-centric approach, we have earned a strong reputation for excellence in the security industry.",
+  description: "LFM Group is a reputable and professional security solutions provider, dedicated to safeguarding our clients' assets, properties, and personnel. With a team of highly trained and skilled security personnel, advanced technology, and a customer-centric approach, we have earned a strong reputation for excellence in the security industry.",
 };
 
-export const ss4Group = [
-  "Saksham Services", "SSL Makeover Studio", "JSS Crystals",
-  "JSS Security", "The Curious Plate", "JSS Foundation", "VSRA Infra Project",
+export const LFMGroup = [
+  "Saksham Services", "SSL Makeover Studio", "LFM Crystals",
+  "LFM Security", "The Curious Plate", "LFM Foundation", "VSRA Infra Project",
 ];
 
 export const securityGuards = {
@@ -122,8 +122,8 @@ export const presence = {
 };
 
 export const footer = {
-  description: "Our company was established in 2017 as SS4 Security Management Services. Due to total devotion, hard work, and sincerity of purpose, the company took long strides in its growth and development.",
-  copyright: "©  JSS GroupSecurity & Facility Management  All Rights Reserved.",
+  description: "Our company was established in 2017 as LFM Security Management Services. Due to total devotion, hard work, and sincerity of purpose, the company took long strides in its growth and development.",
+  copyright: "©  LFM GroupSecurity & Facility Management  All Rights Reserved.",
 };
 
 export default company;

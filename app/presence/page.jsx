@@ -2,9 +2,9 @@ import Counter from "@/components/ui/Counter";
 import siteData from "@/lib/data";
 
 export const metadata = {
-  title: "Our Presence | JSS Group Security & Facility Management",
+  title: "Our Presence | LFM Group Security & Facility Management",
   description:
-    "JSS Group Security & Facility Management Pan India presence with operations across 17+ states.",
+    "LFM Group Security & Facility Management Pan India presence with operations across 17+ states.",
 };
 
 export default function PresencePage() {

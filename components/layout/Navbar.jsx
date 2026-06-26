@@ -46,7 +46,7 @@ export default function Navbar() {
             <Link href="/" className="flex items-center flex-shrink-0">
               <img 
                 src="/images/Logo.png" 
-                alt="JSS GROUP Logo" 
+                alt="LFM Group Logo" 
                 className="w-25 h-25 md:w-45 md:h-40 object-contain"
                 onError={(e) => {
                   console.error("Image load error");

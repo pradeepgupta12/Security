@@ -12,17 +12,17 @@ export default function VisionAbout() {
     if (text.includes('Pan India Presence')) {
       sections.push({ type: 'heading', content: 'Pan India Presence' });
       let remaining = text.split('Pan India Presence')[1];
-      let match = remaining.match(/^([^JSS]+)/);
+      let match = remaining.match(/^([^LFM]+)/);
       if (match) {
         sections.push({ type: 'text', content: match[1].trim() });
       }
     }
 
-    // JSS Assurance extract with bullet points
-    if (text.includes('JSSAssurance')) {
-      sections.push({ type: 'heading', content: 'JSS Assurance' });
-      let afterJSS = text.split('JSSAssurance')[1];
-      let beforeTraining = afterJSS.split('Training')[0];
+    // LFM Assurance extract with bullet points
+    if (text.includes('LFMAssurance')) {
+      sections.push({ type: 'heading', content: 'LFM Assurance' });
+      let afterLFM = text.split('LFMAssurance')[1];
+      let beforeTraining = afterLFM.split('Training')[0];
 
       // Split by • to get bullet points
       let bullets = beforeTraining.split('•').filter(b => b.trim());

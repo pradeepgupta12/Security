@@ -37,7 +37,7 @@ export default function FounderAbout() {
               <div className="w-20 h-0.5 bg-red-600 rounded-full mt-4" />
 
               <p className="mt-4 text-base text-slate-600 max-w-3xl leading-7">
-                The visionaries behind JSS Group who have built a trusted name
+                The visionaries behind LFM Group who have built a trusted name
                 in security and facility management through dedication,
                 professionalism, and years of industry expertise.
               </p>

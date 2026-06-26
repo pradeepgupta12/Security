@@ -20,7 +20,7 @@ export default function HeroSection() {
       {/* Fallback image */}
       <img
         src={hero.fallbackImage}
-        alt="JSS Group Security & Facility Management"
+        alt="LFM Group Security & Facility Management"
         className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-500 ${videoErr ? "opacity-100" : "opacity-50"}`}
       />
       {/* Overlay */}

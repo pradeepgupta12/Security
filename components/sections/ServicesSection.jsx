@@ -10,7 +10,7 @@ export default function ServicesSection() {
           <p className="text-red-600 text-xs font-bold uppercase tracking-widest mb-1">What We Offer</p>
           <h2 className="text-2xl md:text-3xl font-black uppercase red-line-center mb-3">Our Services</h2>
           <p className="text-gray-500 text-sm max-w-lg mx-auto">
-            JSS Group Security & Facility Management Pvt Ltd — India-based, operating all over India.
+            LFM Group Security & Facility Management Pvt Ltd — India-based, operating all over India.
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

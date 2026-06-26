@@ -14,7 +14,7 @@ export default function ProfileAbout() {
           <div className="relative w-full aspect-video rounded-lg overflow-hidden bg-gray-900 mb-6 anim">
             <iframe
               src={`https://www.youtube.com/embed/${profile.videoId}`}
-              title="SS4 Security Profile Video"
+              title="LFM Security Profile Video"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
               className="absolute inset-0 w-full h-full"

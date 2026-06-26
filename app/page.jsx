@@ -12,8 +12,8 @@ import TestimonialSection from "@/components/sections/TestimonialSection";
 import ClientsSection from "@/components/sections/ClientsSection";
 
 export const metadata = {
-  title: "JSS Group Security & Facility Management Pvt. Ltd. | India's Leading Security Agency",
-  description: "JSS Group Security & Facility Management — India's most trusted security agency. Industrial security, executive protection, female security, dog squad, PSARA licensed. Pan India since 2017.",
+  title: "LFM Group Security & Facility Management Pvt. Ltd. | India's Leading Security Agency",
+  description: "LFM Group Security & Facility Management — India's most trusted security agency. Industrial security, executive protection, female security, dog squad, PSARA licensed. Pan India since 2017.",
 };
 
 export default function Home() {

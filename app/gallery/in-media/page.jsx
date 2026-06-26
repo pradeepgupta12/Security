@@ -1,8 +1,8 @@
 import siteData from "@/lib/data";
 
 export const metadata = {
-  title: "In Media | JSS Group Security & Facility Management",
-  description: "JSS Group Security & Facility Management media coverage, news blogs and press mentions.",
+  title: "In Media | LFM Group Security & Facility Management",
+  description: "LFM Group Security & Facility Management media coverage, news blogs and press mentions.",
 };
 
 export default function InMediaPage() {

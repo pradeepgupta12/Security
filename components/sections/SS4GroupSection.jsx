@@ -1,11 +1,11 @@
 // import Image from "next/image";
 
-// export default function SS4GroupSection() {
+// export default function LFMGroupSection() {
 //   return (
 //     <section className="-mt-8 md:-mt-12 lg:-mt-16">
 //       <Image
-//         src="/images/JSS.png"
-//         alt="JSS"
+//         src="/images/LFM.png"
+//         alt="LFM"
 //         width={2000}
 //         height={800}
 //         priority

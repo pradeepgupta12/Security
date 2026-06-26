@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Page Not Found | JSS Group Security & Facility Management",
+  title: "Page Not Found | LFM Group Security & Facility Management",
   description: "The page you are looking for doesn't exist or has been moved.",
 };
 

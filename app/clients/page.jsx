@@ -3,8 +3,8 @@ import Counter from "@/components/ui/Counter";
 import Image from "next/image";
 
 export const metadata = {
-  title: "Our Clients | JSS Group Security & Facility Management",
-  description: "JSS Group Security & Facility Management reputed clients across India including Tata, Adani, GMR, KEC and more.",
+  title: "Our Clients | LFM Group Security & Facility Management",
+  description: "LFM Group Security & Facility Management reputed clients across India including Tata, Adani, GMR, KEC and more.",
 };
 
 export default function ClientsPage() {

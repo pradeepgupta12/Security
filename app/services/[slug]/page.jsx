@@ -15,8 +15,8 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const name = titleFromSlug(slug);
   return {
-    title: `${name} | JSS Group Security & Facility Management`,
-    description: `JSS Group Security & Facility Management provides professional ${name} services across India.`,
+    title: `${name} | LFM Group Security & Facility Management`,
+    description: `LFM Group Security & Facility Management provides professional ${name} services across India.`,
   };
 }
 
